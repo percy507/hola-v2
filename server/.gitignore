@@ -1,0 +1,10 @@
+.DS_Store
+.db/
+node_modules/
+release/
+upload/
+npm-debug.log
+npm-debug.log.*
+thumbs.db
+dump.rdb
+!.gitkeep
